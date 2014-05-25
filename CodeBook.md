@@ -47,7 +47,9 @@ There has been already a detailed discussion about the variable names and the me
 * xAxis, yAxis, zAxis is used to denote 3-axial signals in the X, Y and Z directions. 
 * Also mean and standarddeviation in the name denote that mean and std readings were taken for the signals.
 * Finally in the final dataset the mean/average of all the measurements for each variable for a given subject and activity was taken to generate a single record.
+
 ### Variables List and details
+
 Following is the list of the variables:
  1. "timeBodyAccelerationMeanXAxis" - time domain Body Acceleration Mean value for X Axis.                     
  2. "timeBodyAccelerationMeanYAxis"  - time domain Body Acceleration Mean value for Y Axis.                         
