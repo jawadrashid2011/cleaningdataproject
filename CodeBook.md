@@ -64,61 +64,61 @@ Following is the list of the variables:
  11. "timeGravityAccelerationStandardDeviationYAxis"  - time domain Gravity Acceleration Standard Deviation value for Y Axis.         
  12. "timeGravityAccelerationStandardDeviationZAxis" - time domain Gravity Acceleration Standard Deviation value for Z Axis.          
  13. "timeBodyAccelerationJerkMeanXAxis"   - time domain Body Acceleration Jerk Mean value for X Axis.                   
-14. "timeBodyAccelerationJerkMeanYAxis"  - time domain Body Acceleration Jerk Mean value for Y Axis.                     
-15. "timeBodyAccelerationJerkMeanZAxis"  - time domain Body Acceleration Jerk Mean value for Z Axis.                     
-16. "timeBodyAccelerationJerkStandardDeviationXAxis" - time domain Body Acceleration Jerk Standard Deviation value for X Axis.         
-17. "timeBodyAccelerationJerkStandardDeviationYAxis" - time domain Body Acceleration Jerk Standard Deviation value for X Axis.         
-18. "timeBodyAccelerationJerkStandardDeviationZAxis" - time domain Body Acceleration Jerk Standard Deviation value for X Axis.         
-19. "timeBodyGyroscopeMeanXAxis"  - time domain Body Gyroscope  Mean value for X Axis.                            
-20. "timeBodyGyroscopeMeanYAxis" - time domain Body Gyroscope  Mean value for Y Axis.                               
-21. "timeBodyGyroscopeMeanZAxis"    - time domain Body Gyroscope  Mean value for Z Axis.                            
-22. "timeBodyGyroscopeStandardDeviationXAxis"  - time domain Body Gyroscope  Standard Deviation value for X Axis.                 
-23. "timeBodyGyroscopeStandardDeviationYAxis"     - time domain Body Gyroscope  Standard Deviation value for Y Axis.            
-24. "timeBodyGyroscopeStandardDeviationZAxis"  - time domain Body Gyroscope  Standard Deviation value for Z Axis.               
-25. "timeBodyGyroscopeJerkMeanXAxis"   - time domain Body Gyroscope  Jerk Mean value for X Axis.                       
-26. "timeBodyGyroscopeJerkMeanYAxis" - time domain Body Gyroscope  Jerk Mean value for Y Axis.                          
-27. "timeBodyGyroscopeJerkMeanZAxis"  - time domain Body Gyroscope  Jerk Mean value for Z Axis.                         
-28. "timeBodyGyroscopeJerkStandardDeviationXAxis" - time domain Body Gyroscope  Jerk Standard Deviation value for X Axis.             
-29. "timeBodyGyroscopeJerkStandardDeviationYAxis"   - time domain Body Gyroscope  Jerk Standard Deviation value for Y Axis.         
-30. "timeBodyGyroscopeJerkStandardDeviationZAxis" - time domain Body Gyroscope  Jerk Standard Deviation value for Z Axis.           
-31. "timeBodyAccelerationMagnitudeMean" - time domain Body  Acceleation Magnitude Mean value.                     
-32. "timeBodyAccelerationMagnitudeStandardDeviation"- time domain Body  Acceleation Magnitude Standard Deviation value.          
-33. "timeGravityAccelerationMagnitudeMean"   - time domain Gravity Acceleation Magnitude Mean value.                
-34. "timeGravityAccelerationMagnitudeStandardDeviation"  - time domain Gravity Acceleation Magnitude Standard Deviation value.      
-35. "timeBodyAccelerationJerkMagnitudeMean"   - time domain Body Acceleation Jerk Magnitude Mean value.                 
-36. "timeBodyAccelerationJerkMagnitudeStandardDeviation"      - time domain Body Acceleation Jerk Magnitude Standard Deviation value. 
-37. "timeBodyGyroscopeMagnitudeMean"   - time domain Body Gyroscope  Magnitude Mean value.                        
-38. "timeBodyGyroscopeMagnitudeStandardDeviation"  - time domain Body Gyroscope  Magnitude Standard Deviation value.                
-39. "timeBodyGyroscopeJerkMagnitudeMean"  - time domain Body Gyroscope Jerk  Magnitude Mean value.                         
-40. "timeBodyGyroscopeJerkMagnitudeStandardDeviation" - time domain Body Gyroscope Jerk Magnitude Standard Deviation value.          
-41. "frequencyBodyAccelerationMeanXAxis"  - frequency domain Body Acceleration Mean value for X Axis.                         
-42. "frequencyBodyAccelerationMeanYAxis"  - frequency domain Body Acceleration Mean value for Y Axis.                   
-43. "frequencyBodyAccelerationMeanZAxis"   - frequency domain Body Acceleration Mean value for Z Axis.                  
-44. "frequencyBodyAccelerationStandardDeviationXAxis" - frequency domain Body Acceleration Standard Deviation value for X Axis.       
-45. "frequencyBodyAccelerationStandardDeviationYAxis"  - frequency domain Body Acceleration Standard Deviation value for Y Axis.      
-46. "frequencyBodyAccelerationStandardDeviationZAxis"- frequency domain Body Acceleration Standard Deviation value for Z Axis.        
-47. "frequencyBodyAccelerationJerkMeanXAxis"  - frequency domain Body Acceleration Jerk Mean value for X Axis.               
-48. "frequencyBodyAccelerationJerkMeanYAxis" - frequency domain Body Acceleration Jerk Mean value for Y Axis.                 
-49. "frequencyBodyAccelerationJerkMeanZAxis" - frequency domain Body Acceleration Jerk Mean value for Z Axis.                 
-50. "frequencyBodyAccelerationJerkStandardDeviationXAxis" - frequency domain Body Acceleration Jerk Standard Deviaton value for X Axis.    
-51. "frequencyBodyAccelerationJerkStandardDeviationYAxis" - frequency domain Body Acceleration Jerk Standard Deviaton value for Y Axis.    
-52. "frequencyBodyAccelerationJerkStandardDeviationZAxis"- frequency domain Body Acceleration Jerk Standard Deviaton value for Z Axis.     
-53. "frequencyBodyGyroscopeMeanXAxis"   - frequency domain Body Gyroscope Mean value for X Axis.                      
-54. "frequencyBodyGyroscopeMeanYAxis"   - frequency domain Body Gyroscope Mean value for Y Axis.                         
-55. "frequencyBodyGyroscopeMeanZAxis"   - frequency domain Body Gyroscope Mean value for Z Axis.                         
-56. "frequencyBodyGyroscopeStandardDeviationXAxis" - frequency domain Body Gyroscope Standard deviation value for X Axis.              
-57. "frequencyBodyGyroscopeStandardDeviationYAxis"   - frequency domain Body Gyroscope Standard deviation value for Y Axis.        
-58. "frequencyBodyGyroscopeStandardDeviationZAxis" - frequency domain Body Gyroscope Standard deviation value for Z Axis.          
-59. "frequencyBodyAccelerationMagnitudeMean"   - frequency domain Body Acceleraton Magnitude Mean value.              
-60. "frequencyBodyAccelerationMagnitudeStandardDeviation"     - frequency domain Body Acceleraton Magnitude Standard Deviation value. 
-61. "frequencyBodyAccelerationJerkMagnitudeMean"  - frequency domain Body Acceleraton Jerk Magnitude Mean value.             
-62. "frequencyBodyAccelerationJerkMagnitudeStandardDeviation" - frequency domain Body Acceleraton Jerk Magnitude Standard Deviation value. 
-63. "frequencyBodyGyroscopeMagnitudeMean"    - frequency domain Body Gyroscope Magnitude Mean value.                  
-64. "frequencyBodyGyroscopeMagnitudeStandardDeviation"  - frequency domain Body Gyroscope Magnitude Standard Deviation value.       
-65. "frequencyBodyGyroscopeJerkMagnitudeMean"  - frequency domain Body Gyroscope Jerk Magnitude Mean value.                
-66. "frequencyBodyGyroscopeJerkMagnitudeStandardDeviation"  - frequency domain Body Gyroscope Magnitude Standard Deviation value.   
-67. "subject" - subject id for the person for which this data belongs to.                                               
-68. "activity"  - activity name.         
+ 14. "timeBodyAccelerationJerkMeanYAxis"  - time domain Body Acceleration Jerk Mean value for Y Axis.                     
+ 15. "timeBodyAccelerationJerkMeanZAxis"  - time domain Body Acceleration Jerk Mean value for Z Axis.                     
+ 16. "timeBodyAccelerationJerkStandardDeviationXAxis" - time domain Body Acceleration Jerk Standard Deviation value for X Axis.         
+ 17. "timeBodyAccelerationJerkStandardDeviationYAxis" - time domain Body Acceleration Jerk Standard Deviation value for X Axis.         
+ 18. "timeBodyAccelerationJerkStandardDeviationZAxis" - time domain Body Acceleration Jerk Standard Deviation value for X Axis.         
+ 19. "timeBodyGyroscopeMeanXAxis"  - time domain Body Gyroscope  Mean value for X Axis.                            
+ 20. "timeBodyGyroscopeMeanYAxis" - time domain Body Gyroscope  Mean value for Y Axis.                               
+ 21. "timeBodyGyroscopeMeanZAxis"    - time domain Body Gyroscope  Mean value for Z Axis.                            
+ 22. "timeBodyGyroscopeStandardDeviationXAxis"  - time domain Body Gyroscope  Standard Deviation value for X Axis.                 
+ 23. "timeBodyGyroscopeStandardDeviationYAxis"     - time domain Body Gyroscope  Standard Deviation value for Y Axis.            
+ 24. "timeBodyGyroscopeStandardDeviationZAxis"  - time domain Body Gyroscope  Standard Deviation value for Z Axis.               
+ 25. "timeBodyGyroscopeJerkMeanXAxis"   - time domain Body Gyroscope  Jerk Mean value for X Axis.                       
+ 26. "timeBodyGyroscopeJerkMeanYAxis" - time domain Body Gyroscope  Jerk Mean value for Y Axis.                          
+ 27. "timeBodyGyroscopeJerkMeanZAxis"  - time domain Body Gyroscope  Jerk Mean value for Z Axis.                         
+ 28. "timeBodyGyroscopeJerkStandardDeviationXAxis" - time domain Body Gyroscope  Jerk Standard Deviation value for X Axis.             
+ 29. "timeBodyGyroscopeJerkStandardDeviationYAxis"   - time domain Body Gyroscope  Jerk Standard Deviation value for Y Axis.         
+ 30. "timeBodyGyroscopeJerkStandardDeviationZAxis" - time domain Body Gyroscope  Jerk Standard Deviation value for Z Axis.           
+ 31. "timeBodyAccelerationMagnitudeMean" - time domain Body  Acceleation Magnitude Mean value.                     
+ 32. "timeBodyAccelerationMagnitudeStandardDeviation"- time domain Body  Acceleation Magnitude Standard Deviation value.          
+ 33. "timeGravityAccelerationMagnitudeMean"   - time domain Gravity Acceleation Magnitude Mean value.                
+ 34. "timeGravityAccelerationMagnitudeStandardDeviation"  - time domain Gravity Acceleation Magnitude Standard Deviation value.      
+ 35. "timeBodyAccelerationJerkMagnitudeMean"   - time domain Body Acceleation Jerk Magnitude Mean value.                 
+ 36. "timeBodyAccelerationJerkMagnitudeStandardDeviation"      - time domain Body Acceleation Jerk Magnitude Standard Deviation value. 
+ 37. "timeBodyGyroscopeMagnitudeMean"   - time domain Body Gyroscope  Magnitude Mean value.                        
+ 38. "timeBodyGyroscopeMagnitudeStandardDeviation"  - time domain Body Gyroscope  Magnitude Standard Deviation value.                
+ 39. "timeBodyGyroscopeJerkMagnitudeMean"  - time domain Body Gyroscope Jerk  Magnitude Mean value.                         
+ 40. "timeBodyGyroscopeJerkMagnitudeStandardDeviation" - time domain Body Gyroscope Jerk Magnitude Standard Deviation value.          
+ 41. "frequencyBodyAccelerationMeanXAxis"  - frequency domain Body Acceleration Mean value for X Axis.                         
+ 42. "frequencyBodyAccelerationMeanYAxis"  - frequency domain Body Acceleration Mean value for Y Axis.                   
+ 43. "frequencyBodyAccelerationMeanZAxis"   - frequency domain Body Acceleration Mean value for Z Axis.                  
+ 44. "frequencyBodyAccelerationStandardDeviationXAxis" - frequency domain Body Acceleration Standard Deviation value for X Axis.       
+ 45. "frequencyBodyAccelerationStandardDeviationYAxis"  - frequency domain Body Acceleration Standard Deviation value for Y Axis.      
+ 46. "frequencyBodyAccelerationStandardDeviationZAxis"- frequency domain Body Acceleration Standard Deviation value for Z Axis.        
+ 47. "frequencyBodyAccelerationJerkMeanXAxis"  - frequency domain Body Acceleration Jerk Mean value for X Axis.               
+ 48. "frequencyBodyAccelerationJerkMeanYAxis" - frequency domain Body Acceleration Jerk Mean value for Y Axis.                 
+ 49. "frequencyBodyAccelerationJerkMeanZAxis" - frequency domain Body Acceleration Jerk Mean value for Z Axis.                 
+ 50. "frequencyBodyAccelerationJerkStandardDeviationXAxis" - frequency domain Body Acceleration Jerk Standard Deviaton value for X Axis.    
+ 51. "frequencyBodyAccelerationJerkStandardDeviationYAxis" - frequency domain Body Acceleration Jerk Standard Deviaton value for Y Axis.    
+ 52. "frequencyBodyAccelerationJerkStandardDeviationZAxis"- frequency domain Body Acceleration Jerk Standard Deviaton value for Z Axis.     
+ 53. "frequencyBodyGyroscopeMeanXAxis"   - frequency domain Body Gyroscope Mean value for X Axis.                      
+ 54. "frequencyBodyGyroscopeMeanYAxis"   - frequency domain Body Gyroscope Mean value for Y Axis.                         
+ 55. "frequencyBodyGyroscopeMeanZAxis"   - frequency domain Body Gyroscope Mean value for Z Axis.                         
+ 56. "frequencyBodyGyroscopeStandardDeviationXAxis" - frequency domain Body Gyroscope Standard deviation value for X Axis.              
+ 57. "frequencyBodyGyroscopeStandardDeviationYAxis"   - frequency domain Body Gyroscope Standard deviation value for Y Axis.        
+ 58. "frequencyBodyGyroscopeStandardDeviationZAxis" - frequency domain Body Gyroscope Standard deviation value for Z Axis.          
+ 59. "frequencyBodyAccelerationMagnitudeMean"   - frequency domain Body Acceleraton Magnitude Mean value.              
+ 60. "frequencyBodyAccelerationMagnitudeStandardDeviation"     - frequency domain Body Acceleraton Magnitude Standard Deviation value. 
+ 61. "frequencyBodyAccelerationJerkMagnitudeMean"  - frequency domain Body Acceleraton Jerk Magnitude Mean value.             
+ 62. "frequencyBodyAccelerationJerkMagnitudeStandardDeviation" - frequency domain Body Acceleraton Jerk Magnitude Standard Deviation value. 
+ 63. "frequencyBodyGyroscopeMagnitudeMean"    - frequency domain Body Gyroscope Magnitude Mean value.                  
+ 64. "frequencyBodyGyroscopeMagnitudeStandardDeviation"  - frequency domain Body Gyroscope Magnitude Standard Deviation value.       
+ 65. "frequencyBodyGyroscopeJerkMagnitudeMean"  - frequency domain Body Gyroscope Jerk Magnitude Mean value.                
+ 66. "frequencyBodyGyroscopeJerkMagnitudeStandardDeviation"  - frequency domain Body Gyroscope Magnitude Standard Deviation value.   
+ 67. "subject" - subject id for the person for which this data belongs to.                                               
+ 68. "activity"  - activity name.         
 
 
 
