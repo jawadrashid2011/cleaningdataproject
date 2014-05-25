@@ -59,8 +59,8 @@ Following is the list of the variables:
  6. "timeBodyAccelerationStandardDeviationZAxis"     - time domain Body Acceleration Standard Deviation value for Z Axis.                      
  7. "timeGravityAccelerationMeanXAxis"      - time domain  Gravity Acceleration Mean value for X Axis.                               
  8. "timeGravityAccelerationMeanYAxis"    - time domain  Gravity Acceleration Mean value for Y Axis.                     
- 9. "timeGravityAccelerationMeanZAxis"  - time domain  Gravity Acceleration Mean value for Z Axis.                       
-10. "timeGravityAccelerationStandardDeviationXAxis"  - time domain Gravity Acceleration Standard Deviation value for X Axis.          
+ 9. "timeGravityAccelerationMeanZAxis"  - time domain  Gravity Acceleration Mean value for Z Axis.                   
+ 10. "timeGravityAccelerationStandardDeviationXAxis"  - time domain Gravity Acceleration Standard Deviation value for X Axis.          
 11. "timeGravityAccelerationStandardDeviationYAxis"  - time domain Gravity Acceleration Standard Deviation value for Y Axis.         
 12. "timeGravityAccelerationStandardDeviationZAxis" - time domain Gravity Acceleration Standard Deviation value for Z Axis.          
 13. "timeBodyAccelerationJerkMeanXAxis"   - time domain Body Acceleration Jerk Mean value for X Axis.                   
